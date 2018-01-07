@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{49B50F9F-A986-4FA0-22E8-5D1AB30A6F4F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TargetBehaviour.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController.cs" Line="54" Column="68" />
+      <File FileName="Assets/Scripts/TargetBehaviour.cs" Line="35" Column="13" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Shooting_220Gallery PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
